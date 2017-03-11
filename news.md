@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: News
-permalink: "News"
-category :"News"
+permalink: /news/
+category : "News"
 tagline: "News from Deepspace."
 ---

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Database
-permalink: "Database"
-category :"Database"
+permalink: /database/
+category : "Database"
 tagline: "A map for Deepspace Dreamers."
 ---
