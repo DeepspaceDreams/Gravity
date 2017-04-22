@@ -1,10 +1,13 @@
 ---
-layout: archive
+layout: page
 title: Database
 permalink: /database/
-category : "Database"
 tagline: "A map for Deepspace Dreamers."
 ---
+
+### SpaceMap
+
+The [Space Map gitHub repository](https://github.com/DeepspaceDreams/SpaceMap) contains all the SoundCloud and YouTube links extracted from [our Facebook group](https://www.facebook.com/groups/deepspacedreams/). Feel free to explore and listen to these tracks.
 
 ### Our playlists
 

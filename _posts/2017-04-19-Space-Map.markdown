@@ -1,8 +1,0 @@
----
-layout: post
-title:  Space Map
-date:   2017-04-19 15:10:00
-categories: ["Database"]
----
-
-The [Space Map gitHub repository](https://github.com/DeepspaceDreams/SpaceMap) contains all the SoundCloud and YouTube links extracted from [our Facebook group](https://www.facebook.com/groups/deepspacedreams/). Feel free to explore and listen to these tracks.
