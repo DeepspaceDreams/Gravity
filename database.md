@@ -11,7 +11,7 @@ The [Space Map gitHub repository](https://github.com/DeepspaceDreams/SpaceMap) c
 
 ### [Our Youtube Channel](https://www.youtube.com/channel/UCx6qpL85eEaqOAb0hz5N66w)
 
-And our [playlists](./playlists/)
+And our [playlists](./../playlists/)
 
 ### Where to dig ?
 
