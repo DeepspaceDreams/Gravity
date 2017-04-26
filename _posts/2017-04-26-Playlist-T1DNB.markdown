@@ -5,7 +5,7 @@ date:   2017-04-26 13:00:00
 categories: ["Playlists"]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXG1UxdN3qL8BLQXqPajGaMvPh5mvcCKP" frameborder="0" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLXG1UxdN3qL8BLQXqPajGaMvPh5mvcCKP" frameborder="0" allowfullscreen></iframe>
 
 This is our first Takeover day featuring Drum'n'Bass gems straight from deepspace.
 
