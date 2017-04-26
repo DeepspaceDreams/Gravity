@@ -9,15 +9,9 @@ tagline: "A map for Deepspace Dreamers."
 
 The [Space Map gitHub repository](https://github.com/DeepspaceDreams/SpaceMap) contains all the SoundCloud and YouTube links extracted from [our Facebook group](https://www.facebook.com/groups/deepspacedreams/). Feel free to explore and listen to these tracks.
 
-### Our playlists
+### [Our Youtube Channel](https://www.youtube.com/channel/UCx6qpL85eEaqOAb0hz5N66w)
 
-[Our Youtube Channel](https://www.youtube.com/channel/UCx6qpL85eEaqOAb0hz5N66w)
-
-Deepspace Dreams Playlists :
-
-1. LD1 Giegling
-2. LD2 Northern Electronics
-3. T1 Deepspace Drum’n’Bass
+And our [playlists](./playlists/)
 
 ### Where to dig ?
 
