@@ -5,9 +5,9 @@ permalink: /database/
 tagline: "A map for Deepspace Dreamers."
 ---
 
-### SpaceMap
+### SpaceMap >> Galaxies
 
-The [Space Map gitHub repository](https://github.com/DeepspaceDreams/SpaceMap) contains all the SoundCloud and YouTube links extracted from [our Facebook group](https://www.facebook.com/groups/deepspacedreams/). Feel free to explore and listen to these tracks.
+Our Galaxy playlists on [Youtube](https://www.youtube.com/playlist?list=PLXG1UxdN3qL8iPlQNm8RAxA1p9zlXvEa8) and [Soundcloud](https://soundcloud.com/deepspace-dreams/sets/galaxy)contains all the tracks posted by our Deepspace community in [our Facebook group](https://www.facebook.com/groups/deepspacedreams/). Feel free to explore and listen.
 
 ### [Our Youtube Channel](https://www.youtube.com/channel/UCx6qpL85eEaqOAb0hz5N66w)
 
