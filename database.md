@@ -7,12 +7,12 @@ tagline: "A map for Deepspace Dreamers."
 
 ## Deepspace Dreams Content
 
-#### Our Channels
+### Our Channels
 
 Find Deepspace Dreams & Celestial Kicks on [Youtube](https://www.youtube.com/channel/UCx6qpL85eEaqOAb0hz5N66w) and [Soundcloud](https://soundcloud.com/deepspace-dreams) to track our reposts and playlists.
 You can also find all the playlists made for the label days and takeover days organized on our [Facebook Group](https://www.facebook.com/groups/deepspacedreams/) right [here](./../playlists/)
 
-#### SpaceMaps & Galaxies
+### SpaceMaps & Galaxies
 
 Our Galaxy playlists on [Youtube](https://www.youtube.com/playlist?list=PLXG1UxdN3qL8iPlQNm8RAxA1p9zlXvEa8) and [Soundcloud](https://soundcloud.com/deepspace-dreams/sets/galaxy)contains all the tracks posted by our Deepspace community in [our Facebook group](https://www.facebook.com/groups/deepspacedreams/). Feel free to explore and listen.
 You can also find all the extracted Youtube and and Soundcloud links in our [SpaceMap Github Repistory](https://github.com/DeepspaceDreams/SpaceMap).
@@ -20,7 +20,7 @@ You can also find all the extracted Youtube and and Soundcloud links in our [Spa
 
 ## Our deepspace digging recommandations
 
-#### Labels
+### Labels
 
 -	[Hypnus Records](https://www.discogs.com/fr/label/640495-Hypnus-Records)
 - [Giegling](https://www.discogs.com/fr/label/144751-Giegling)
@@ -49,7 +49,7 @@ You can also find all the extracted Youtube and and Soundcloud links in our [Spa
 - [Intimate Silence](https://www.discogs.com/fr/label/959916-Intimate-Silence)
 - [txt recordings](http://www.txtrecordings.co.uk/)
 
-#### Youtube Channels
+### Youtube Channels
 
 -	[Sick Deckard](https://www.youtube.com/channel/UCKsTGkFAuM91uF2iXALXgFw)
 -	[0AntN](https://www.youtube.com/user/0AntN)
@@ -75,7 +75,7 @@ You can also find all the extracted Youtube and and Soundcloud links in our [Spa
 - [Annulled Music's Channel](https://www.youtube.com/user/annulledmusic)
 - [Circular Limited's Channel](https://www.youtube.com/channel/UC8Hz9Y1Ru8iGo6NrMZ8DBEw)
 
-#### Podcasts
+### Podcasts
 
 -	[INVEINS](https://soundcloud.com/inveins-podcast)
 -	[Reclaim Your City](https://soundcloud.com/reclaim-your-city)
