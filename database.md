@@ -14,8 +14,8 @@ You can also find all the playlists made for the label days and takeover days or
 
 ### SpaceMaps & Galaxies
 
-Our Galaxy playlists on [Youtube](https://www.youtube.com/playlist?list=PLXG1UxdN3qL8iPlQNm8RAxA1p9zlXvEa8) and [Soundcloud](https://soundcloud.com/deepspace-dreams/sets/galaxy)contains all the tracks posted by our Deepspace community in [our Facebook group](https://www.facebook.com/groups/deepspacedreams/). Feel free to explore and listen.
-You can also find all the extracted Youtube and and Soundcloud links in our [SpaceMap Github Repistory](https://github.com/DeepspaceDreams/SpaceMap).
+Our Galaxy playlists on [Youtube](https://www.youtube.com/playlist?list=PLXG1UxdN3qL8iPlQNm8RAxA1p9zlXvEa8) and [Soundcloud](https://soundcloud.com/deepspace-dreams/sets/galaxy) contain all the tracks posted by our Deepspace community in [our Facebook group](https://www.facebook.com/groups/deepspacedreams/). Feel free to explore and listen.
+You can also find all the extracted Youtube and Soundcloud links in our [SpaceMap GitHub Repository](https://github.com/DeepspaceDreams/SpaceMap).
 
 
 ## Our deepspace digging recommandations
