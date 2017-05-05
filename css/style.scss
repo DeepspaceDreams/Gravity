@@ -294,6 +294,10 @@ pre {
   font-size: 18px;
   font-weight: 300;
   padding-top: 0;
+  iframe {
+    margin: 0 auto;
+    display: block;
+  }
 }
 .home{
   padding-bottom: 5em;
@@ -604,10 +608,7 @@ pre {
     }
   }
 }
-iframe {
-    margin: 0 auto;
-    display: block;
-  }
+
 /**
  * Pagination
  */
