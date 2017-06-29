@@ -12,10 +12,18 @@ tagline: "A map for Deepspace Dreamers."
 Find Deepspace Dreams & Celestial Kicks on [Youtube](https://www.youtube.com/channel/UCx6qpL85eEaqOAb0hz5N66w) and [Soundcloud](https://soundcloud.com/deepspace-dreams) to track our reposts and playlists.
 You can also find all the playlists made for the label days and takeover days organized on our [Facebook Group](https://www.facebook.com/groups/deepspacedreams/) right [here](./../playlists/)
 
-### SpaceMaps & Galaxies
+### Galaxies
 
 Our Galaxy playlists on [Youtube](https://www.youtube.com/playlist?list=PLXG1UxdN3qL8iPlQNm8RAxA1p9zlXvEa8) and [Soundcloud](https://soundcloud.com/deepspace-dreams/sets/galaxy) contain all the tracks posted by our Deepspace community in [our Facebook group](https://www.facebook.com/groups/deepspacedreams/). Feel free to explore and listen.
 You can also find all the extracted Youtube and Soundcloud links in our [SpaceMap GitHub Repository](https://github.com/DeepspaceDreams/SpaceMap).
+
+### Space Map
+
+With the help of our community we created a Space Map: a map with all the "deepspace" events in the world (Festival, Promoters, Clubs). You will find a lot of experimental and ambient festivals, but also a lot of techno events all around Planet Earth. 
+Maps like this are never really complete, and if you think of a festival, promoters or clubs that would fit in there, please send us the info at deepspacekicks@gmail.com
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1qwPD1yVZGA9Qtmvg_KhE3zWugyw&hl=en_US" width="640" height="480"></iframe>
+
 
 
 ## Our deepspace digging recommandations
