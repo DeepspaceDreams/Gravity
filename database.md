@@ -19,7 +19,7 @@ You can also find all the extracted Youtube and Soundcloud links in our [SpaceMa
 
 ### Space Map
 
-With the help of our community we created a Space Map: a map with all the "deepspace" events in the world (Festival, Promoters, Clubs). You will find a lot of experimental and ambient festivals, but also a lot of techno events all around Planet Earth. 
+With the help of our community we created a Space Map: a map with all the "deepspace" events in the world (Festival in Purple, Promoters in Green, Clubs in Orange). You will find a lot of experimental and ambient festivals, but also a lot of techno events all around Planet Earth. 
 Maps like this are never really complete, and if you think of a festival, promoters or clubs that would fit in there, please send us the info at deepspacekicks@gmail.com
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1qwPD1yVZGA9Qtmvg_KhE3zWugyw&hl=en_US" width="640" height="480"></iframe>
