@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  The Deespace Chronicles : Transcendances Technoïdes
-date:   2017-04-26 13:05:00
+date:   2017-10-02 18:05:00
 categories: ["The Deespace Chronicles"]
 ---
 
