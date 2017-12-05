@@ -21,6 +21,8 @@ Je réfléchirais plus tard à ce qui a pu se passer, il y a du avoir un dysfonc
 
 ---
 
-texte © Bastien Sentubery
-artwork © Simon Gilles
-logo © Jason Lopez Longueville
+Credits :
+
+- texte © Bastien Sentubery
+- artwork © Simon Gilles
+- logo © Jason Lopez Longueville

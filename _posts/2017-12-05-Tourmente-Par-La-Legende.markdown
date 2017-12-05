@@ -40,6 +40,8 @@ Il était complètement abasourdi. Comment allait il expliquer ça au Conseil ? 
 
 ---
 
-texte © Bastien Sentubery
-artwork © Simon Gilles
-logo © Jason Lopez Longueville
+Credits :
+
+- texte © Bastien Sentubery
+- artwork © Simon Gilles
+- logo © Jason Lopez Longueville

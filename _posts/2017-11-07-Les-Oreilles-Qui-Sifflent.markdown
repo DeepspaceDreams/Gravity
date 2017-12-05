@@ -25,6 +25,8 @@ Leurs présences allaient bientôt devenir suspectes aux yeux des cyborgs infirm
 
 ---
 
-texte © Bastien Sentubery
-artwork © Simon Gilles
-logo © Jason Lopez Longueville
+Credits :
+
+- texte © Bastien Sentubery
+- artwork © Simon Gilles
+- logo © Jason Lopez Longueville
