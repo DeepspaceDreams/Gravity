@@ -575,8 +575,9 @@ pre {
   margin-bottom: $spacing-unit;
 }
 .post-title {
-  font-size: 62px;
-
+  font-size: 42px;
+  hyphens: none;
+  margin-top: 30px;
   text-align: center;
   font-family: "PT Sans";
   font-weight: 900;
@@ -588,7 +589,7 @@ pre {
   margin-bottom: $spacing-unit;
   padding-bottom: 3em !important;
   p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
   h2 {
     font-size: 32px;
