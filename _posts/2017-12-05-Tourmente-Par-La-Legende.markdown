@@ -11,6 +11,8 @@ Deepspace Dreams & Celestial Kicks présente the Deepspace Chronicles, une séri
 
 ---
 
+
+
 Deosmo se réveilla difficilement, comme trop souvent ces derniers temps. Son extrarelais l'avait tiré de ces songes à l’aube, pour l’avertir que le Conseil attendait des résultats rapidement. Cette pression le rendait à la fois fou, mais surtout plus obstiné. Depuis ces longues années où il occupait le poste de général, il avait toujours réussi à endiguer les révoltes naissantes, à tuer dans l’oeuf les courants de pensées qui n’allaient pas dans le sens de la Confédération. Tous ces pseudo-rebelles torturés, psychologiquement et physiquement, toutes ces vies brisées aussi facilement, ces plans et secrets obtenus rapidement … pour en arriver aujourd’hui, à ne pas comprendre du tout ce qu’il se passait ? Son auto-satisfaction à créer de la souffrance et à annihiler des communautés entières ne suffisait pas, son amour de l’ordre et du respect inconditionnel du système le rendait insatisfait. Il comptait bien découvrir les responsables de ces dernières attaques et leurs faire payer leurs effronteries.
 
 Pour commencer, il avait décidé de rendre visite au célèbre docteur Brookle. S'il était au moins sûr d'une chose, c'est que tout avait un lien avec les recherches de ce savant fou. 
