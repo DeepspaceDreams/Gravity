@@ -21,9 +21,12 @@ Même si les marques physiques sur le visage de cette prénommée Liu laissait p
 Mais pourquoi ces événements récents l’inquiétaient autant alors ? Il ne comprenait pas mais son intuition ne lui avait jamais fait défaut.
 
 Brookle tira le général de ses rêveries. 
+
 _ Alors très cher Deosmo, vous venez enfin changer l’appareil installé la dernière fois ? 
 Deosmo le fusilla du regard. Il n’aimait pas qu’on aborde ce sujet. Le scientifique comprit rapidement que sa remarque était hors propos.
+
 _ Je ne sais pas si vous êtes au courant de ce qui se passe la haut, mais c’est un beau bordel. Et je suis persuadé que vous n’êtes pas étranger à tout cela. 
+
 _ De quoi parlez vous ? Je dois avouer que je reste la plupart du temps le nez dans mes recherches, alors bon les problèmes de ce bas monde, vous savez …
 La mine faussement stupéfaite du docteur ne trompait personne. Il avait toujours redouté que cela arrive, que la vérité éclate au grand jour, et il sentait au plus profond de lui même que ce moment était proche. 
 _ Je vais vous faire un rapide topo de la situation : 7 attaques en 8 semaines. 5 proches de centres de régulation sonique, 2 proches de salles de classes des Jeunes Factions Phoniques, régiment Solsido2 et Mifaré7. 23 morts, dont 18 dans les 3 premières attaques. Mais surtout 23 morts par explosion de leur sonophone. J’ai pas ramené les photos, mais je pense que vous imaginez très bien le tableau. Maintenant à vous de réfléchir et de me dire ce que vous en pensez. 
