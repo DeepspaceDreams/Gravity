@@ -8,9 +8,9 @@ categories: ["The Deepspace Chronicles"]
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/365323283&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
 Deepspace Dreams & Celestial Kicks présente the Deepspace Chronicles, une série de podcasts accompagnées d'un histoire de Science Fiction, Transcendances Technoïdes. Histoire écrite par Bastien Sentubery, troisième chapitre mis en musique par [gimu](https://soundcloud.com/gimu).
-
+<br>
 ---
-<br><br>
+<br>
 
 Deosmo se réveilla difficilement, comme trop souvent ces derniers temps. Son extrarelais l'avait tiré de ces songes à l’aube, pour l’avertir que le Conseil attendait des résultats rapidement. Cette pression le rendait à la fois fou, mais surtout plus obstiné. Depuis ces longues années où il occupait le poste de général, il avait toujours réussi à endiguer les révoltes naissantes, à tuer dans l’oeuf les courants de pensées qui n’allaient pas dans le sens de la Confédération. Tous ces pseudo-rebelles torturés, psychologiquement et physiquement, toutes ces vies brisées aussi facilement, ces plans et secrets obtenus rapidement … pour en arriver aujourd’hui, à ne pas comprendre du tout ce qu’il se passait ? Son auto-satisfaction à créer de la souffrance et à annihiler des communautés entières ne suffisait pas, son amour de l’ordre et du respect inconditionnel du système le rendait insatisfait. Il comptait bien découvrir les responsables de ces dernières attaques et leurs faire payer leurs effronteries.
 
@@ -53,9 +53,9 @@ _ Croyez moi, ce conte est bien réel. Les rebelles n'ont rien inventé. Je suis
 
 Il était complètement abasourdi. Comment allait il expliquer ça au Conseil ? Lui même avait du mal à croire aux explications du docteur. Ses doigts commençaient à trembler. Les muscles de son cou se contractèrent soudainement. 8 jours qu'il était neutre, Mais il ne pouvait plus attendre, tout ces révélations l'avait rendu encore plus nerveux. Heureusement l’habitacle opaque de son alterporteur lui permettait de tout activer sans risque d'être découvert. Cette vague glaciale, à en être brûlante, descendait enfin le long de sa colonne, avant de submerger ses pensées.
 
-
+<br>
 ---
-
+<br>
 
 Credits :
 
