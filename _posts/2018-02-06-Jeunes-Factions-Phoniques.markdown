@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Deepspace Chronicles - Ch.V - Jeunes Factions Phoniques - Miloyko
+title:  The Deepspace Chronicles - Ch.V - Jeunes Factions Phoniques - Miloyko (live)
 date:   2018-02-06 14:00:00
 categories: ["The Deepspace Chronicles"]
 ---
