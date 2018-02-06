@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  The Deepspace Chronicles - Ch.V - Ensemble pour un souvenir - Miloyko
+title:  The Deepspace Chronicles - Ch.V - Jeunes Factions Phoniques - Miloyko
 date:   2018-02-06 14:00:00
 categories: ["The Deepspace Chronicles"]
 ---
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/365323283&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true"></iframe>
 
-Deepspace Dreams & Celestial Kicks présente the Deepspace Chronicles, une série de podcasts accompagnées d'un histoire de Science Fiction, Transcendances Technoïdes. Histoire écrite par Bastien Sentubery, troisième chapitre mis en musique par [gimu](https://soundcloud.com/gimu).
+Deepspace Dreams & Celestial Kicks présente the Deepspace Chronicles, une série de podcasts accompagnées d'un histoire de Science Fiction, Transcendances Technoïdes. Histoire écrite par Bastien Sentubery, cinquième chapitre mis en musique par [Miloyko](https://soundcloud.com/miloyko).
 <br>
 ---
 <br>
