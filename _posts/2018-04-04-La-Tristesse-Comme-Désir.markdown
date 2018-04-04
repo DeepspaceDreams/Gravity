@@ -13,7 +13,7 @@ Deepspace Dreams & Celestial Kicks présente the Deepspace Chronicles, une séri
 <br>
 
 "Nous apprenons à l'instant que le FBP a encore frappé, au coeur de notre méga-capitale. Il s'agirait d'une attaque ciblée contre un Centre de Récupération Énergétique de moyenne envergure.
-Cela porte à 65 le nombre d'attaques sur 5 ans. La SAJ, sous le poids de la menace, appelle les citoyens à être prudents et les jeunes ganymédiens à se mobiliser en rejoignants ses rangs. Nous nous retrouvons dans 5 minutes pour un nouveau flash info." 
+Cela porte à 65 le nombre d'attaques sur 5 ans. La SAJ, sous le poids de la menace, appelle les citoyens à être prudents et les jeunes ganymédiens à se mobiliser en rejoignant ses rangs. Nous nous retrouvons dans 5 minutes pour un nouveau flash info." 
 <br><br>
 Silly connaissait les risques. Depuis que les Commandos du Sourire avaient intensifié leurs actions, le gouvernement avait durci sa politique intérieure et pratiquait désormais la tolérance zéro. Plus aucune effusion de joie acceptée, même dans un cadre privé. La présence obligatoire d’un extrarelais dans chaque foyer permettait de surveiller sans interruption les attitudes de chacun : à la moindre pensée ou moindre geste au dessus du minimum de négativité tolérée, vous risquiez de faire un long voyage, le genre de voyage d'où vous reveniez sans vous rappeler ce qu'était la moindre émotion. 
 <br><br>
