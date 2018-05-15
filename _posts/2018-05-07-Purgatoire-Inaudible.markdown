@@ -7,7 +7,7 @@ categories: ["The Deepspace Chronicles"]
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/444275010&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
-Deepspace Dreams & Celestial Kicks présente the Deepspace Chronicles, une série de podcasts accompagnées d'un histoire de Science Fiction, Transcendances Technoïdes. Histoire écrite par Bastien Sentubery, septième chapitre mis en musique par [Xtematic](https://www.facebook.com/XtematicXernex/).
+Deepspace Dreams & Celestial Kicks présente the Deepspace Chronicles, une série de podcasts accompagnées d'un histoire de Science Fiction, Transcendances Technoïdes. Histoire écrite par Bastien Sentubery, huitième chapitre mis en musique par [Xtematic](https://www.facebook.com/XtematicXernex/).
 <br>
 ---
 <br>
